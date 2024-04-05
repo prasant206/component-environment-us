@@ -1,0 +1,16 @@
+{
+    "name": "nest/component-environment-us",
+    "description": "us environment files",
+    "type": "magento2-component",
+    "require": {
+        "magento/magento-composer-installer": "*"
+    },
+    "extra": {
+        "map": [
+            [
+                "app/etc/config.php",
+                "app/etc/config.php"
+            ]
+        ]
+    }
+}
