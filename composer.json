@@ -3,8 +3,7 @@
     "description": "us environment files",
     "type": "magento2-component",
     "require": {
-        "magento/magento-composer-installer": "*",
-        "livechat/module-magento-livechat": "dev-master as 2.4"
+        "magento/magento-composer-installer": "*"
     },
     "extra": {
         "map": [
